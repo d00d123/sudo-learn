@@ -36,3 +36,4 @@ Every seventh day is a weekly review: recap, a combined attack-chain diagram, mi
 - Labs are meant for your own machines and lab environments only. Do not point any of it at systems you do not own or have written permission to test.
 - Everything here is educational and defensive in intent. Example IPs, domains, and keys are documentation placeholders (for example `example.com` and the `192.0.2.0/24` and `203.0.113.0/24` ranges).
 - Facts, CVE and technique IDs, and links are checked when each lesson is written. If you spot a mistake, open an issue.
+- Every lesson is checked with `tools/scan.py` for secrets, personal data, and classification markers before it is committed.
