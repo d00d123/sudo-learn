@@ -31,6 +31,7 @@ Every seventh day is a weekly review: recap, a combined attack-chain diagram, mi
 | 6 | [HTTP, cookies, and sessions](day-06-http-cookies-sessions/README.md) |
 | 7 | [Weekly review: week 1](day-07-weekly-review-1/README.md) |
 | 8 | [SQL injection](day-08-sql-injection/README.md) |
+| 9 | [XSS and Content Security Policy](day-09-xss-and-csp/README.md) |
 
 ## Ground rules
 
